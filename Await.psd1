@@ -12,7 +12,7 @@ FunctionsToExport = 'Start-AwaitSession', 'Stop-AwaitSession', 'Send-AwaitComman
     'Receive-AwaitResponse', 'Wait-AwaitResponse'
 AliasesToExport = 'spawn', 'saas', 'spas', 'sendac', 'sdac', 'expect', 'war', 'expect?', 'rcar'
 
-ModuleVersion = '0.8'
+ModuleVersion = '0.9'
 
 GUID = '5fc00d79-9947-4a3c-be93-a75c9c3aa9e1'
 
