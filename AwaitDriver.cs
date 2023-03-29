@@ -437,6 +437,10 @@ namespace AwaitDriver
                     case "ESC":
                         keypress = GetKeyPressForSimpleKey(keypress, 0x1B);
                         break;
+
+                    case "TAB":
+                        keypress = GetKeyPressForSimpleKey(keypress, 0x09);
+                        break;
                 }
             }
 
